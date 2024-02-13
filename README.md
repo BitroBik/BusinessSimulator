@@ -1,6 +1,6 @@
 # BusinessSimulator
 ## Description
-- 💼 Welcome to a Company Simulator Game.
+- 💼 Welcome to a Business Simulator Game.
 - 🌱 where you build your company from the ground up!
 
 - 🛠️ Upgrade and clean your offices.
