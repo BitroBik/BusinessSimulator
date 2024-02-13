@@ -5,6 +5,7 @@
 
 - 🛠️ Upgrade and clean your offices.
 - 🚨 Avoid jail by not paying taxes.
+- 🛒 Buy or Rent Place
 
 ## Building Soon
 - ⭐ Unique Level System
