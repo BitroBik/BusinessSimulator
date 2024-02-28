@@ -8,3 +8,8 @@
 
 ## Building Soon
 - ⭐ Experience a unique Level System that rewards strategic decision-making and fosters continuous growth and development.
+
+## Credits
+### Name       Contribution     
+- BitroBik - Dev, Art 
+- 
