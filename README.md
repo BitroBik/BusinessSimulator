@@ -9,7 +9,8 @@
 ## Building Soon
 - ⭐ Experience a unique Level System that rewards strategic decision-making and fosters continuous growth and development.
 
-## Credits
-### Name       Contribution     
-- BitroBik - Dev, Art 
-- 
+## Credits  
+- BitroBik - Dev, Art - GitHub
+- KylePandaRoblox - Dev - Roblox
+- Justsomerandomacc326 - Veto - Roblox
+- Private - Aplha & Beta Tester - Private
