@@ -1,5 +1,8 @@
 # Business Simulator Changelog
 
+## 1.0.0
+- Changelog is building
+
 ## 0.4.0
 - Added Employee class to manage hired employees, allowing for more dynamic office staffing.
 - Implemented Hire_Employee method in the Business class, enabling the hiring of employees for offices.
